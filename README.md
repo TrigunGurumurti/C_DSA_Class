@@ -1,1 +1,1 @@
-# In this repository , DSA in C is covered
+# In this repository, DSA in C is covered
