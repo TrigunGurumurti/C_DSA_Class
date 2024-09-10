@@ -1,1 +1,1 @@
-# C_DSA_Class
+# In this repository, DSA in C is covered
