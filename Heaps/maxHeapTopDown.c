@@ -68,7 +68,6 @@ int deletemax(HEAP *h)
             break;
         }  
     }
-    
     return max;  
 }
 
