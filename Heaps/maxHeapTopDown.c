@@ -1,5 +1,4 @@
 // Max heap implementation using top down approach
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<limits.h> // INT_MAX in index 0
